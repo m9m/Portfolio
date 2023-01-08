@@ -1,4 +1,7 @@
 # Portfolio
-Personal portfolio with a "business card" design coded in HTML and Tailwind
+Personal portfolio with a "business card" design
 
-View the hosted product at https://keeganm.net
+Static Hosting
+Stack: HTML, Tailwind
+
+https://www.keeganm.net
